@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "GNBkgLqY#1pp73OqFCVz1E1wI3Ob-bvbYop1FSh2fDePABOi747U",
       "required": true,
-      "value": ""
+      "value": "GNBkgLqY#1pp73OqFCVz1E1wI3Ob-bvbYop1FSh2fDePABOi747U"
     },  
     
     "ALIVE_IMG": {
@@ -40,7 +40,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
